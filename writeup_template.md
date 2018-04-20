@@ -1,9 +1,9 @@
 # **Traffic Sign Recognition** 
 
 ## Writeup
+. It contains all elements of the rburick in there, too.
 
-### You can use this file as a template for your writeup if you want to submit it as a markdown file, but feel free to use some other method and submit a pdf if you prefer.
-
+### Dear reader. I used notion to write up my document. Please take a look here: https://www.notion.so/rajkinra23/Training-a-traffic-sign-classifier-using-LeNet-da00043bee624b1db7009b752afcc800. It contains all elements of the rburick in there, too. Best, Rajeev
 ---
 
 **Build a Traffic Sign Recognition Project**
